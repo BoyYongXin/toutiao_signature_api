@@ -1,6 +1,7 @@
 import requests
 
-# url = "http://localhost/sign/toutiao"
+url = "http://localhost/sign/toutiao"
+url = "http://XXXXXXXXXX/sign/toutiao"
 data = {
     # "url": "https://www.toutiao.com/toutiao/c/user/article/?user_id=4010048375&page_type=0&max_behot_time=0&count=10&version=2&platform=pc&as=A1B59E8E83128CD&cp=5EE3E2E81C1DCE1",
     # "url": "https://www.toutiao.com/toutiao/c/user/article/?page_type=1&user_id=4377795668&max_behot_time=0&count=20"
